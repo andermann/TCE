@@ -1,0 +1,14 @@
+C:\Users\ankku\Downloads\TCE-master\TCE-master\Entidades\bin\Debug\Entidades.dll
+C:\Users\ankku\Downloads\TCE-master\TCE-master\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ankku\Downloads\TCE-master\TCE-master\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ankku\Downloads\TCE-master\TCE-master\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ankku\Downloads\TCE-master\TCE-master\Entidades\obj\Debug\Entidades.dll
+C:\Users\ankku\Downloads\TCE-master\TCE-master\Entidades\obj\Debug\Entidades.pdb
+D:\Curriculum-Vitae\TCE\TCE-master\TCE-master\Entidades\bin\Debug\Entidades.dll
+D:\Curriculum-Vitae\TCE\TCE-master\TCE-master\Entidades\bin\Debug\Entidades.pdb
+D:\Curriculum-Vitae\TCE\TCE-master\TCE-master\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Curriculum-Vitae\TCE\TCE-master\TCE-master\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Curriculum-Vitae\TCE\TCE-master\TCE-master\Entidades\obj\Debug\Entidades.dll
+D:\Curriculum-Vitae\TCE\TCE-master\TCE-master\Entidades\obj\Debug\Entidades.pdb
+D:\Curriculum-Vitae\TCE\TCE-master\TCE-master\Entidades\bin\Debug\System.Collections.Specialized.dll
+D:\Curriculum-Vitae\TCE\TCE-master\TCE-master\Entidades\obj\Debug\Entidades.csproj.CopyComplete
